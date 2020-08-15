@@ -1,3 +1,7 @@
 teste depois do reset hard
 novas mudanças no arquivo
+<<<<<<< HEAD
 mudança feita no ramo master
+=======
+mudança feita no ramo teste
+>>>>>>> teste
